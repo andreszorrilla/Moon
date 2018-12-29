@@ -1,37 +1,35 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+## A little about myself
+I was born and raised in Encarnación, a small city located in the south of Paraguay. Now I am a newly Computer Science Engineer graduated at Universidad Nacional de Itapua.
+
+When I'm not in a <i>nerd mode</i> I try to play basketball, chess or travel somewhere I am able to go.
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    {{ site.url }}/{{ site.foto_1 }}
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="@ Loma San Jerónimo (Asunción, Paraguay)" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+<br>
+
+
+
+## Work Experience
+
+
+I am currenty working in the IT Departament at UNI (yup, the same place where I have finished my degree), doing a lot of stuff.
+
+My main responsabilities is to develop and mainteance 
+And also with  take care of the whole network from the campus and its headquarters distributed in the Itapua Departament, manage physical and virtual servers. 
+
+
+And also, I'm a volunteer researcher at UNI, working in a 

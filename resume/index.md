@@ -1,0 +1,86 @@
+---
+layout: page
+title: Resume
+tags: [about, resume, experience]
+date: 2016-03-21
+comments: false
+---
+
+
+# Andrés Zorrilla Villanueva
+## Software Developer
+
+
+<hr>
+
+### Employment
+<kbd>Jan/2015 - actual</kbd>  <strong>Software Developer.</strong> IT Department. National University of Itapua.
+* #### Main Responsabilities
+	* Software Development and Mainteance. Ruby on Rails, Django.
+	* Network Management - PFSense DNS, DHCP Server, Proxy, Squid, etc).
+	* Server Management. Proxmox, Linux Server, etc.
+* #### Projects
+	* <kbd>Jan/2015 - Sep/2015:</kbd> <a href="#" _target="blank">HR UNI - Human Resources Control System</a>: Python, Django Framework.
+	* <kbd>Jan/2016 - Jan/2018:</kbd> <a href="#" _target="blank">Academic System for UNI</a>: Ruby on Rails
+
+
+<hr>
+
+### Education
+
+<kbd>2011 - 2017</kbd> National University of Itapua.  <strong>Computer Science Engineer.</strong>
+Final Project Degree <i>Image Retrieval by Text Using Natural Language Processing applied in a Visual Agenda used by a Specialist in people with Autism Spectrum Disorder.</i>
+
+<kbd>2008 - 2010</kbd> Technical Education High School Diploma, Computer Science. Regional Education Center. Encarnación, Paraguay.
+
+<hr>
+
+### Researches
+
+<kbd>2017 - actual</kbd>
+UMETECH Project (University and MEdia TEchnology for Cultural Heritage) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project co-financed by the Erasmus+ KA2 programme of the European Union to Universidad Nacional de Itapúa.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Development of a mobile application about a tourist guide applied to Jesuit Missions of Trinidad using techiques of the Digital Image Processing, Augmented Reality and audio feedback.</i>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>More info:</b> ​ <a href="http://umetech.uni.edu.py/proyecto​/">UMETECH Project's Official site <i class="fa fa-arrow-right"></i></a>
+
+
+<kbd>2017 - 2018</kbd> Final Degree Project
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image Retrieval by Text Using Natural Language Processing applied in a Visual Agenda used by a Specialist in people with Autism Spectrum Disorder ​ .
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programing Environment:​ Django 1.8. Python 2.7. Gensim.
+
+<b>More Info: </b> <a href="https://github.com/andreszorrilla/oikoitea">Github Repo</a>
+
+
+<hr>
+
+### Technical Skills
+
+* Ruby On Rails Framework.
+* Python
+* Django Framework.
+* OpenCV
+* Gensim (Word2Vec)
+* Java. Spring. Hibernate. Grails.
+* MySQL
+* C++. OpenGL.
+
+<hr>
+
+### Area of Expertise
+* Software Development
+* Computer Vision
+* Natural Language Processing
+
+<hr>
+
+### Language Skills 
+Spanish / Guarani: Mother tongues.
+
+English:
+* Understanding: B1
+* Speaking: B1
