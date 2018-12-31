@@ -9,8 +9,10 @@ comments: false
 
 ## A little about myself
 
-My name's is Andrés. I am a computer programmer who likes to solve problems and improve lives through technology using my brain.
+My name's is Andrés. I am a computer programmer who likes to solve problems and improve lives through technology using my brain. I enjoy coding and learning programming languages in general
+
 Now I am a newly Computer Science Engineer graduated at Universidad Nacional de Itapua.
+
 
 I was born and raised in Encarnación, a small city located in the south of Paraguay. 
 

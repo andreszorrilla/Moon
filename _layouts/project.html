@@ -24,13 +24,26 @@ layout: compress
                 <div class="post-list">
                     {% for post in site.posts %} 
                         {% if post.project %}
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
+
+                        <ul>
+                            <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                                <a class="zoombtn" href="{{ site.url }}{{ post.url }}">
+                                    {{ post.title }}
+                                </a>
+
+                                <table rules="groups">
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align: justify" width="50%">{{ post.excerpt }}</td>
+                                            <td style="text-align: right" width="50%">
+                                                <img src="{{ site.url }}/{{ site.logo }}" class="img-circle zoombtn animated rotateIn" align="right">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            </li>
+                        </ul>
                       {% endif %}
                     {% endfor %}
                 </div>

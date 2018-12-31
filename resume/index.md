@@ -35,7 +35,7 @@ Final Project Degree <i>Image Retrieval by Text Using Natural Language Processin
 
 <hr>
 
-### Researches
+### Researches & Articles
 
 <kbd>2017 - actual</kbd>
 UMETECH Project (University and MEdia TEchnology for Cultural Heritage) 
@@ -54,7 +54,6 @@ UMETECH Project (University and MEdia TEchnology for Cultural Heritage)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programing Environment:​ Django 1.8. Python 2.7. Gensim.
 
 <b>More Info: </b> <a href="https://github.com/andreszorrilla/oikoitea">Github Repo</a>
-
 
 <hr>
 
@@ -84,3 +83,6 @@ Spanish / Guarani: Mother tongues.
 English:
 * Understanding: B1
 * Speaking: B1
+
+
+
