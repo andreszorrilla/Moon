@@ -8,7 +8,11 @@ comments: false
 
 
 ## A little about myself
-I was born and raised in Encarnación, a small city located in the south of Paraguay. Now I am a newly Computer Science Engineer graduated at Universidad Nacional de Itapua.
+
+My name's is Andrés. I am a computer programmer who likes to solve problems and improve lives through technology using my brain.
+Now I am a newly Computer Science Engineer graduated at Universidad Nacional de Itapua.
+
+I was born and raised in Encarnación, a small city located in the south of Paraguay. 
 
 When I'm not in a <i>nerd mode</i> I try to play basketball, chess or travel somewhere I am able to go.
 
@@ -16,12 +20,6 @@ When I'm not in a <i>nerd mode</i> I try to play basketball, chess or travel som
     {{ site.url }}/{{ site.foto_1 }}
 {% endcapture %}
 {% include gallery images=images caption="@ Loma San Jerónimo (Asunción, Paraguay)" cols=2 %}
-
-
-
-<br>
-
-
 
 ## Work Experience
 

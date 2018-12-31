@@ -29,7 +29,7 @@ layout: compress
                         	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
 			            </a>
                     </h3>
-                    {% include social-links.html %}
+
                   <hr class="hr-line">
                   <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
@@ -41,13 +41,17 @@ layout: compress
                          <a class="btn zoombtn" href="{{ site.url }}/projects">
                          Projects
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
-                         Contact
-                         </a>
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
-                         Posts
+                         Blog
                          </a>
                  </h3>
+                  <hr class="hr-line">
+
+                    <p>You can contact me at</p>
+                    <a href="mailto:hello@andreszorrillav.com">hello@andreszorrillav.com</a>
+
+                    <p>or also follow me in my social networks</p>
+                    {% include social-links.html %}
             </div>
         </div>
     </header>
