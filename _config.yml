@@ -10,12 +10,14 @@ foto_1:             '/assets/img/san_geronimo.jpg'
 misionpy:           '/assets/img/missionpy/missionpy_icon.png'
 oikoitea_1:         'assets/img/oikoitea/logo2.jpg'
 oikoitea_capture_1: 'assets/img/oikoitea/capture_1.png'
-oikoitea_architecture: 'assets/img/oikoitea/architecture.png'
+oikoitea_architecture: 'assets/img/oikoitea/architecture.jpeg'
+oikoitea_vector_average: 'assets/img/oikoitea/vector_average_2.jpg'
+oikoitea_vector_similarity: 'assets/img/oikoitea/vectors_img.png'
 
 #background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://andreszorrilla.github.io/
+url:                http://localhost:4000/ #https://andreszorrilla.github.io/
 
 # Jekyll
 permalink:          /:title/
