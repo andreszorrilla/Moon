@@ -62,12 +62,19 @@ In view that currently there are applications like this, it has been proposed th
 
 So basicly, it looks for a **semantic searcher** that considers not only the *String comparison*, rather a 
 
+
+
+
+
+![Oikoitea capture]({{ site.url }}/{{ site.oikotea_synomym }})
+{: .image-center}
+<center><b>Picture 1:</b> Activity set for a Visual Agenda, in this case, steps of how to brush teeth.</center>
+
+
 ---------
 
 
 ### NLP and Word Embeddings
-
-
 
 
 It has been considered a technique of word representation called **Word Embeddings** that generates a *Vector Space Model*. During the *information retrieval*, the search term entered and the descriptions stored in the database have been vectorized based on the vocabulary of the VSM, for later comparison according to the cosine similarity metric and returning the results in an order of relevance.
@@ -147,10 +154,10 @@ Oikoitea has been built for spanish speakers, a resource with a lot of words was
 #### Step 3: Vectorizing words
 
 
-![word to averaged vector]({{ site.url }}/oikoitea-summarize/)
+![word to averaged vector]({{ site.url }}/{{ site.oikoitea_vector_average }})
 {: .image-center}
 
-<center><b>Picture 3:</b> Word to averaged vector.</center>
+<center><b>Picture 3:</b> Average of two word vectors.</center>
 
 Se puede observar en la Figura 4, inicialmente se han extraído las descripciones y se han expresado en una notación vectorial, obteniendo las palabras del modelo de representación vectorial. Debido a que las descripciones son composiciones de una o más palabras, se ha establecido el promedio de vectores como representación de descripciones en un espacio vectorial, donde se halla el promedio de las palabras de la descripción, y retornando de esta forma un vector resultante de la misma dimensión.
 
@@ -163,7 +170,7 @@ Once the images and the corpus have been gotten,
 ![word to averaged vector]({{ site.url }}/{{ site.oikoitea_vector_similarity }})
 {: .image-center}
 
-<center><b>Picture 3:</b> Word to averaged vector.</center>
+<center><b>Picture 3:</b> words representation as vectors.</center>
 
 #### Step 5: Information Retrieval System
 
