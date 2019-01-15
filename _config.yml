@@ -16,12 +16,12 @@ oikoitea_vector_average:    'assets/img/oikoitea/vector_average_2.jpg'
 oikoitea_vector_similarity: 'assets/img/oikoitea/vectors_img.png'
 oikotea_semantic_search:    'assets/img/oikoitea/Capture.PNG'
 oikotea_synomym:            'assets/img/oikoitea/sinonimo.PNG'
-
+oikoitea_site:              '​https://oikoitea.andreszorrillav.com'
 
 #background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://andreszorrilla.github.io/
+url:                https://andreszorrilla.github.io
 
 # Jekyll
 permalink:          /:title/
