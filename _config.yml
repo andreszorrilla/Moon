@@ -1,13 +1,13 @@
 # Site
 title:              Andrés Zorrilla
-bio:                'Computer Science Engineer.'
-description:        "Software Developer. Computer Science Engineer from Paraguay."
+bio:                'Software Engineer.'
+description:        "Software Developer. Software Engineer from Paraguay."
 reading_time:       true
 words_per_minute:   200
 
 logo:                       'assets/img/andres.jpeg'
 foto_1:                     '/assets/img/san_geronimo.jpg'
-misionpy:                   '/assets/img/missionpy/missionpy_icon.png'
+misionpy:                   '/assets/img/misionpy/missionpy_icon.png'
 oikoitea_1:                 'assets/img/oikoitea/logo2.jpg'
 oikoitea_capture_1:         'assets/img/oikoitea/capture_1.png'
 oikoitea_capture_2:         'assets/img/oikoitea/capture_2.png'
@@ -17,10 +17,12 @@ oikoitea_vector_similarity: 'assets/img/oikoitea/vectors_img.png'
 oikotea_semantic_search:    'assets/img/oikoitea/Capture.PNG'
 oikotea_synomym:            'assets/img/oikoitea/sinonimo.PNG'
 oikoitea_site:              '​https://oikoitea.andreszorrillav.com'
+academic_system_site:       'https://www.academicsystem.andreszorrillav.com'
 
 #background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
+#url:                http://localhost:4000 
 url:                https://andreszorrilla.github.io
 
 # Jekyll
