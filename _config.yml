@@ -19,6 +19,12 @@ oikotea_synomym:            'assets/img/oikoitea/sinonimo.PNG'
 oikoitea_site:              '​https://oikoitea.andreszorrillav.com'
 academic_system_site:       'https://www.academicsystem.andreszorrillav.com'
 
+rrhh_capture_1:  'assets/img/hr_control/periodos_vacaciones_detail.png'
+rrhh_capture_2:  'assets/img/hr_control/marcaciones_form.png'
+rrhh_capture_3:  'assets/img/hr_control/marcaciones_report.png'
+rrhh_capture_4:  'assets/img/hr_control/vacaciones_detail.png'
+rrhh_capture_5:  'assets/img/hr_control/vacaciones_list.png'
+
 #background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
