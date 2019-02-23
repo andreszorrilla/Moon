@@ -13,12 +13,9 @@ comments: false
 
 <hr>
 
-### Employment
+### Projects
 <kbd>Jan/2015 - actual</kbd>  <strong>Software Developer.</strong> IT Department. National University of Itapua.
-* #### Main Responsabilities
-	* Software Development and Mainteance. Ruby on Rails, Django.
-	* Network Management - PFSense DNS, DHCP Server, Proxy, Squid, etc).
-	* Server Management. Proxmox, Linux Server, etc.
+.
 * #### Projects
 	* <kbd>Jan/2015 - Sep/2015:</kbd> <a href="#" _target="blank">HR UNI - Human Resources Control System</a>: Python, Django Framework.
 	* <kbd>Jan/2016 - Jan/2018:</kbd> <a href="#" _target="blank">Academic System for UNI</a>: Ruby on Rails

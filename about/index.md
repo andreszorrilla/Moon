@@ -18,8 +18,6 @@ I was born and raised in Encarnación, a small city located in the south of Para
 Now I am a newly Computer Science Engineer graduated at Universidad Nacional de Itapua (also known as UNI).
 I am currenty working in the IT Departament at UNI (yup, the same place where I have finished my degree), doing a lot of stuff.
 
-My main responsabilities is to develop and mainteance 
-And also with  take care of the whole network from the campus and its headquarters distributed in the Itapua Departament, manage physical and virtual servers. 
+My main responsabilities is to develop and mainteance of Information Management Systems that are hosted at the UNI's servers. And also with  take care of the whole network from the campus and its headquarters distributed in the Itapua Departament, manage physical and virtual servers. 
 
-
-And also, I'm a volunteer researcher at UNI, working in a 
+And also, I'm a volunteer researcher at UNI, working in a MisionPY, a mobile application for "smart visiting" of Paraguayan cultural heritage sites, namely the Jesuistics Missions. This app allows to use the camera of the mobile to take images of the objects around the visitor, like parts or details of the building, and uses computer vision to provide in-depth information about them.
