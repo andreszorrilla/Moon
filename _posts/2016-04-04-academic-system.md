@@ -21,19 +21,11 @@ comments: false
 
 
 
-**Academic System Manager** allows to manage the Human Resources of an company. 
-
-It was created in view of the progressive employess increase, which made dificult the access their information.
+**Academic System Manager** is a Management Information System for the Academic Dependecies at Headquarters of Universidad Nacional de Itapúa (www.uni.edu.py).
 
 
 ## Functionalities
-**HR Control** has the following functionalities:
-* Employees registration: personal data, date of entry, position and section.
-* Generation of vacation reports.
-* Control of employee days off during active periods.
-* Automatic generation of days off during vacation periods, when employees reach a certain age.
-* Issuance of document reports: medical justifications and permits.
-* Attendance control, with integration of a biometric clock.
+**Academic System Manager** has the following functionalities:
 
 
 
