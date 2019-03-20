@@ -27,10 +27,15 @@ comments: false
 ## Functionalities
 **Academic System Manager** has the following functionalities:
 
-
-
-That's all.
-
+* Faculty, Careers and Subject Templates
+* Study Planning Generation.
+* Student Registration.
+* Courses Management.
+* Class Periods Management by time (per year, semester, etc.) and career.
+* Professor Registration
+* Registration to courses.
+* Generation of Exams, Grade Worksheet.
+* And more
 
 
 
@@ -66,3 +71,4 @@ That's all.
 
 ### Links and more info:
 * Project Sample [here](http://academicsystem.andreszorrillav.com)
+* Source code (Github) [here](https://github.com/andreszorrilla/academic_system)
