@@ -42,7 +42,6 @@ layout: compress
                          Projects
                          </a>
                          <!--
-
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
                          Blog
                          </a>
@@ -60,5 +59,8 @@ layout: compress
         </div>
     </header>
     {% include scripts.html %}
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
 </body>
 </html>
