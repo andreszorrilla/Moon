@@ -10,7 +10,6 @@ comments: false
 # Andrés Zorrilla Villanueva
 ## Software Developer
 
-
 <hr>
 
 ### Projects
