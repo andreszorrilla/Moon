@@ -7,3 +7,4 @@ gem 'jekyll-mentions'
 gem 'jekyll-feed'
 
 gem 'bootstrap', '~> 4.2.1'
+gem 'jekyll-sitemap'
