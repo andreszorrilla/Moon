@@ -53,7 +53,7 @@ academic_system_capture_24:  'assets/img/academic_system/image24.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 #url:                http://localhost:4000 
-url:                https://andreszorrilla.github.io
+url:                https://www.andreszorrillav.com
 
 # Jekyll
 permalink:          /:title/
